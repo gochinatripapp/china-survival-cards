@@ -1,22 +1,28 @@
-# Action Card: China Hospital ER Navigation
+# Action Card: Medical Emergency & Hospital Navigation
 
 ## Trigger
-You are suddenly sick in China. You find a hospital, but you don't know the registration process, and the self-service kiosks require a Chinese ID.
+You are suddenly ill in China. You find a hospital, but you don't know the registration process, or you cannot communicate your symptoms.
 
 ## Immediate Action
-Do NOT go to the general outpatient hall (which may be closed at night). Go directly to the Emergency Department (急诊科). It is 24/7.
+1. If it is a life-threatening emergency, call **120** (Ambulance).
+2. If you can walk, go to a 3A hospital's **Emergency Department (急诊科)**, not the general outpatient hall.
+3. Present your passport at the Manual Registration Window (人工挂号窗口).
 
-## Show This / Action
-Show your passport at the "Emergency Registration Window" (急诊挂号窗口). Pay the registration fee upfront. After seeing the doctor, you must go to the payment window FIRST, then take the receipt to the lab for tests.
+## Alternative / Backup
+- **Language Barrier:** Hand your phone to the hospital staff with a pre-translated Chinese text (see below).
+- **Payment:** You must pay a deposit at the cashier before tests or medication are processed. Foreign credit cards (Visa/Mastercard) usually work at large public hospitals.
+- **Insurance:** Ask for the official Fapiao (发票) to claim reimbursement back home.
+
+## Show This (Full-Screen Chinese Card)
+我需要看急诊。我不会说中文。请帮我找一个会说英语的医生，或者使用翻译软件。谢谢！
+*(English: I need emergency care. I don't speak Chinese. Please help me find an English-speaking doctor or use a translation app. Thank you!)*
 
 ## Safety / Don't Do
-Most public hospitals cannot bill foreign insurance directly. You must pay out of pocket first, and ask for the Fapiao (发票, official receipt) to claim reimbursement back home.
-
-## Alternative
-If you cannot find a 3A hospital and are too unwell to take a taxi, call 120. English support on 120 varies by city (Shanghai has it, Hunan does not). Hand the phone to your hotel front desk if you cannot communicate.
+- Do NOT delay emergency care while trying to find an English-speaking clinic.
+- Do NOT rely on an AI-generated translation for medication dosing or treatment decisions.
+- **Allergy Warning:** If you have severe allergies, show the staff your pre-written allergy card immediately.
 
 ## Evidence
-- **Last Verified:** October 2026
-- **Tested On:** Navigation logic cross-referenced with government English guides.
-- **Applies To:** Foreign travelers needing emergency medical navigation.
-- **Source:** [GoChinaTrip.app](https://gochinatrip.app/health.html)
+- **Level 1 (Official):** 120 is the universal ambulance number. Chinese law requires emergency treatment regardless of payment upfront.
+- **Level 2 (Tested):** Navigation of the 3A hospital ER flow tested in Guangzhou.
+- **Last Verified:** November 2026
