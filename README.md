@@ -7,7 +7,17 @@ These cards are extracted from [GoChinaTrip.app](https://gochinatrip.app). They 
 All cards strictly follow the **Canonical SSAP Standard**: Trigger -> Immediate Action -> Alternative/Backup -> Show This -> Safety/Don't Do. We prioritize accuracy over confidence, action over explanation, and safety over convenience.
 
 ---
+## 📜 The GoChinaTrip SSAP Standard
 
+Every Survival Action Card must identify a specific real-world problem, give an immediate executable action, provide a realistic backup, include ready-to-show Chinese, and protect the traveler against secondary harm. 
+
+**Our Evidence Grading System:**
+- **Level 1 (Officially Verified):** Rules backed by government guidance, official transport operators, or payment providers.
+- **Level 2 (Operationally Tested):** Steps tested in an actual location or transaction, with dates and conditions documented.
+- **Level 3 (Practical Workaround):** A reasonable suggested approach that has not been independently verified in the real-world (e.g., asking a cashier to split a bill, which depends on their rules).
+
+**Our Defining Promise:** 
+*A traveler should never be left wondering what to do next.*
 ## Card 1: Alipay 380 RMB Counter Deadlock
 
 **Trigger:** 
