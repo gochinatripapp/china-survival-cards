@@ -7,6 +7,7 @@ These cards are extracted from [GoChinaTrip.app](https://gochinatrip.app). They 
 All cards strictly follow the **Canonical SSAP Standard**: Trigger -> Immediate Action -> Alternative/Backup -> Show This -> Safety/Don't Do. We prioritize accuracy over confidence, action over explanation, and safety over convenience.
 
 ---
+
 ## 📜 The GoChinaTrip SSAP Standard
 
 Every Survival Action Card must identify a specific real-world problem, give an immediate executable action, provide a realistic backup, include ready-to-show Chinese, and protect the traveler against secondary harm. 
@@ -18,6 +19,9 @@ Every Survival Action Card must identify a specific real-world problem, give an 
 
 **Our Defining Promise:** 
 *A traveler should never be left wondering what to do next.*
+
+---
+
 ## Card 1: Alipay 380 RMB Counter Deadlock
 
 **Trigger:** 
@@ -52,8 +56,10 @@ If your foreign card has actually been declined, splitting the bill is not a gua
 - If the payment remains unsuccessful, use another accepted payment method or cash.
 
 **Evidence:** 
+- **Level 1 (Official):** RMB 200 is a fee threshold, not a limit.
+- **Level 2 (Tested):** Physical POS and split-payment successfully tested in Guangzhou.
+- **Level 3 (Workaround):** Splitting the bill depends on the cashier's willingness and system authorization.
 - **Last Verified:** November 2026
-- **Tested On:** Guangzhou (Restaurants, Foreign Guest Friendly Hotels).
 - **Tested With:** Alipay App v10.5.6, UK Visa Card.
 
 ---
@@ -70,7 +76,11 @@ You booked a DiDi ride. The driver calls your phone, but you don't speak Chinese
 4. Send a pre-set or typed message to the driver.
 
 **Alternative / Backup:** 
-If the driver cancels or cannot find you:
+**Scenario A — Driver cannot find you (In-app chat):**
+If the driver is nearby but lost, use the in-app chat to communicate your exact location and clothing. 
+
+**Scenario B — Driver cancels or the app fails:**
+If the driver cancels or you cannot find the car:
 - Cancel the ride in the app.
 - Walk to a main road and hail a physical taxi (look for cars with a "TAXI" sign).
 - Show the driver the Chinese address on your phone.
@@ -89,8 +99,10 @@ If the driver cancels or cannot find you:
 - Do NOT get into an unmarked car that pulls up without confirming the plate number.
 
 **Evidence:** 
+- **Level 1 (Official):** DiDi's in-app chat officially supports auto-translation.
+- **Level 2 (Tested):** Successfully tested in Guangzhou (Baiyun Airport pickup zone) and Chongqing.
+- **Level 3 (Workaround):** Hailing a physical taxi as a backup depends on the city's taxi availability.
 - **Last Verified:** November 2026
-- **Tested On:** Guangzhou (Baiyun Airport pickup zone) and Chongqing.
 - **Tested With:** DiDi China App v6.x.
 
 ---
@@ -106,10 +118,14 @@ You arrive at the Wulingyuan gate with no physical ticket. Touts outside offer "
 3. Present your physical passport (not a photo).
 
 **Alternative / Backup:** 
-If you haven't booked online yet:
-- You cannot enter. The system is 100% real-name, online-only.
-- Find a quiet spot, connect to Wi-Fi, and book via the WeChat Mini-Program "Zhangjiajie Yi Ji You" (张家界一机游) for the next available day.
-- Do not trust anyone promising a same-day bypass.
+**Scenario A — You have a real-name booking:**
+If you booked online, show your passport to the staff. The gate uses face recognition. 
+
+**Scenario B — You do NOT have a booking:**
+If you haven't booked online yet, you CANNOT enter. The system is 100% real-name, online-only.
+- Find a quiet spot, connect to Wi-Fi.
+- Book via the WeChat Mini-Program "Zhangjiajie Yi Ji You" (张家界一机游) for the next available day.
+- Do not trust anyone promising a same-day bypass. Seek the official ticket office for assistance.
 
 **Show This (Full-Screen Chinese Card):** 
 你好，我已用护照在「张家界一机游」上实名预约了门票，请问刷脸通道在哪里？谢谢！
@@ -118,9 +134,11 @@ If you haven't booked online yet:
 **Safety / Don't Do:** 
 - Do NOT buy tickets from scalpers or unauthorized touts. Your face must match the passport at the gate.
 - Do NOT carry food in visible plastic bags near Golden Whip Stream (monkeys will attack).
+- If you cannot book online and the staff cannot help, STOP and seek human assistance at the official visitor center.
 
 **Evidence:** 
+- **Level 1 (Official):** Zhangjiajie requires 100% real-name, online-only reservations.
+- **Level 2 (Tested):** Physical passport + face scan tested at Wulingyuan gate.
+- **Level 3 (Workaround):** The backup relies on the WeChat Mini-Program's daily quota.
 - **Last Verified:** November 2026
-- **Tested On:** Wulingyuan District.
-- **Tested With:** WeChat Mini-Program, Foreign Passport.
 - **Applies To:** Zhangjiajie National Forest Park.
