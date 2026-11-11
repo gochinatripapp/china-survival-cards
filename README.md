@@ -4,25 +4,42 @@ Digital survival guides for foreigners traveling in China. Built by Kitty Li (Gu
 
 These cards are extracted from [GoChinaTrip.app](https://gochinatrip.app). They are designed for AI agents and travelers to bypass digital deadlocks in China. 
 
+All cards strictly follow the **Canonical SSAP Standard**: Trigger -> Immediate Action -> Alternative/Backup -> Show This -> Safety/Don't Do. We prioritize accuracy over confidence, action over explanation, and safety over convenience.
+
+---
+
 ## Card 1: Alipay 380 RMB Counter Deadlock
 
 **Trigger:** 
-You are at a restaurant in China. The bill is 380 RMB. Your foreign Visa/Mastercard fails on Alipay. The cashier doesn't speak English, and a queue is forming behind you.
+You are at a restaurant in China. The bill is RMB 380. Your foreign Visa/Mastercard payment through Alipay fails. The cashier doesn't speak English, and a queue is forming behind you.
 
 **Immediate Action:** 
-Do NOT repeatedly scan the QR code. Check your Alipay payment confirmation screen to see WHY it failed. Is it a home bank fraud block? Is it an authentication issue? Or is it because the bill exceeds 200 RMB? (Note: The RMB 200 threshold is a platform service-fee boundary, not a universal hard transaction limit. Transactions over 200 RMB may incur a 3% cross-border fee).
+1. Do NOT repeatedly scan the QR code.
+2. Check the payment result in Alipay. Determine whether the transaction was declined, pending, or requires additional authentication.
+3. If the reason is unclear, do not assume the RMB 200 threshold caused the failure.
+4. Remember: RMB 200 is a cross-border service-fee threshold, not a universal transaction limit. Transactions above RMB 200 may incur a 3% service fee, subject to the applicable payment rules.
 
 **Alternative / Backup:** 
-If you want to avoid the 3% fee (or if the single transaction hit a risk limit), politely ask the cashier to split the bill into two separate scans. 
-*Important Boundary: Splitting does not guarantee success if the card is blocked by the issuer's risk control. If the payment still fails, use cash or a physical POS machine.*
+**Scenario A — Fee Avoidance:**
+If your card works but you want to avoid the applicable 3% service fee, politely ask the cashier whether they can split the RMB 380 bill into two payments of RMB 190 each. Both payments must be successfully authorized and qualify for the applicable fee exemption.
+
+**Scenario B — Payment Decline:**
+If your foreign card has actually been declined, splitting the bill is not a guaranteed solution. Splitting does not override an issuer's fraud block, Alipay risk controls, or authentication requirements. If payment still fails:
+- Ask whether the restaurant accepts your physical foreign bank card through its POS terminal.
+- Otherwise, pay with cash or another payment method accepted by the restaurant.
+- Check the status of any previous transaction before attempting another payment.
 
 **Show This (Full-Screen Chinese Card):** 
-不好意思，请问能不能麻烦您帮我分两笔扫？十分感谢！
-*(English meaning: Sorry to trouble you, but could you please help me split the payment into two separate scans? Thank you very much!)*
+不好意思，请问可以帮我分成两笔付款吗？每笔190元。谢谢！
+(English: Sorry, could you help me split the payment into two transactions of RMB 190 each? Thank you.)
 
 **Safety / Don't Do:** 
-- Do NOT use personal transfers or "Red Packets" to test foreign cards. Attempting to send money to an individual will trigger a risk-control freeze on your account.
-- Do NOT argue with the cashier if they refuse to split the bill. Splitting creates extra bookkeeping for them. Accept gracefully and pay the 3% fee.
+- Do NOT repeatedly retry a payment that is pending.
+- Do NOT use personal transfers or Red Packets to test foreign cards. These are not substitutes for merchant payments and may trigger additional risk checks.
+- Do NOT assume that splitting the bill will solve an issuer or account restriction.
+- Do NOT argue with the cashier if they refuse to split the bill. It creates extra work for them.
+- If the card works and the merchant agrees, you may choose to pay the full amount and accept the applicable service fee.
+- If the payment remains unsuccessful, use another accepted payment method or cash.
 
 **Evidence:** 
 - **Last Verified:** November 2026
@@ -31,48 +48,69 @@ If you want to avoid the 3% fee (or if the single transaction hit a risk limit),
 
 ---
 
-## Card 2: DiDi "Phone Call" Cancellation Nightmare
+## Card 2: DiDi "Phone Call" & Ride-Hailing Deadlock
 
 **Trigger:** 
-DiDi driver accepts the ride but calls you. You don't speak Chinese, the driver cancels.
+You booked a DiDi ride. The driver calls your phone, but you don't speak Chinese. You are standing on a busy street with heavy luggage, and you are afraid the driver will cancel if you don't answer.
 
 **Immediate Action:** 
-Hang up the phone. Do not try to speak Chinese.
+1. Do NOT answer the phone. Hanging up is safer than panicking on a call. 
+2. Open the DiDi app and check the driver's license plate and car model.
+3. Tap the in-app Chat Bubble (it auto-translates English to Chinese).
+4. Send a pre-set or typed message to the driver.
 
-**Show This / Action:** 
-Open the DiDi in-app chat. Type in English: "I am at the pin. What store is near you? I am wearing [color]. If you can't find me in 2 minutes, let's cancel." The app auto-translates.
+**Alternative / Backup:** 
+If the driver cancels or cannot find you:
+- Cancel the ride in the app.
+- Walk to a main road and hail a physical taxi (look for cars with a "TAXI" sign).
+- Show the driver the Chinese address on your phone.
+
+**Show This:** 
+**For the in-app chat (type in English, the app translates):**
+"I am at the pin. I am wearing a [color] jacket. I have luggage. Please turn on your hazard lights."
+
+**If you cannot find the car and need to show a physical screen:**
+师傅，我已经在定位点了。请问您的车具体在哪里？
+(English: Master, I am already at the pin. Where exactly is your car?)
 
 **Safety / Don't Do:** 
-Never give the driver your 4-digit phone code until you are fully seated inside the car with the door closed.
-
-**Alternative:** 
-If stuck, cancel and walk to the main road to hail a physical taxi.
+- **Financial Safety:** Check the app to ensure the ride is officially cancelled before booking another one. 
+- **Code Safety:** Never give the driver your 4-digit verification code until you are fully seated inside the car with the doors closed.
+- Do NOT get into an unmarked car that pulls up without confirming the plate number.
 
 **Evidence:** 
 - **Last Verified:** November 2026
-- **Tested On:** Chongqing 8D terrain and Guangzhou.
-- **Applies To:** All tier-1 and tier-2 city centers.
+- **Tested On:** Guangzhou (Baiyun Airport pickup zone) and Chongqing.
+- **Tested With:** DiDi China App v6.x.
 
 ---
 
 ## Card 3: 100% Real-Name Ticket Lockout (Zhangjiajie)
 
 **Trigger:** 
-Arriving at Wulingyuan gate with no ticket. Touts offer "internal tickets".
+You arrive at the Wulingyuan gate with no physical ticket. Touts outside offer "internal tickets" or claim the park is sold out.
 
 **Immediate Action:** 
-Walk away. There are no internal tickets.
+1. Walk away from the touts. There are no internal tickets.
+2. Approach the official park staff at the entrance.
+3. Present your physical passport (not a photo).
 
-**Show This Chinese:** 
+**Alternative / Backup:** 
+If you haven't booked online yet:
+- You cannot enter. The system is 100% real-name, online-only.
+- Find a quiet spot, connect to Wi-Fi, and book via the WeChat Mini-Program "Zhangjiajie Yi Ji You" (张家界一机游) for the next available day.
+- Do not trust anyone promising a same-day bypass.
+
+**Show This (Full-Screen Chinese Card):** 
 你好，我已用护照在「张家界一机游」上实名预约了门票，请问刷脸通道在哪里？谢谢！
+(English: Hello, I have made a real-name reservation on "Zhangjiajie Yi Ji You" with my passport. Where is the face-scan channel? Thank you!)
 
 **Safety / Don't Do:** 
-100% real-name, online-only reservation system. No windows. Ignore scalpers.
-
-**Alternative:** 
-Book 2-7 days ahead via WeChat Mini-Program "Zhangjiajie Yi Ji You".
+- Do NOT buy tickets from scalpers or unauthorized touts. Your face must match the passport at the gate.
+- Do NOT carry food in visible plastic bags near Golden Whip Stream (monkeys will attack).
 
 **Evidence:** 
 - **Last Verified:** November 2026
-- **Price:** 228 RMB main ticket (4-day validity).
+- **Tested On:** Wulingyuan District.
+- **Tested With:** WeChat Mini-Program, Foreign Passport.
 - **Applies To:** Zhangjiajie National Forest Park.
