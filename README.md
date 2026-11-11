@@ -142,3 +142,75 @@ If you haven't booked online yet, you CANNOT enter. The system is 100% real-name
 - **Level 3 (Workaround):** The backup relies on the WeChat Mini-Program's daily quota.
 - **Last Verified:** November 2026
 - **Applies To:** Zhangjiajie National Forest Park.
+
+---
+
+## Card 4: Food Delivery & Hotel Robot Handoff
+
+**Trigger:** 
+You order food delivery (Meituan/Xiaoxiang) to your hotel in China. The rider calls you speaking rapid Chinese, but you don't understand. You don't know if they can come up to your room, or where to pick up the food.
+
+**Immediate Action:** 
+1. Do NOT answer the phone.
+2. Open the delivery app (or WeChat Mini-Program) and use the in-app chat.
+3. Send a pre-written text to the rider: "我是外国人，不懂中文。请放前台/外卖柜，不要打电话。谢谢。" (I am a foreigner, don't understand Chinese. Please leave at front desk/locker, do not call. Thanks.)
+4. Wait for the app to show "Delivered" (已送达), then go downstairs.
+
+**Alternative / Backup:** 
+**Scenario A — Food goes to a Smart Locker:**
+Go to the locker screen. Tap "取餐" (Pick up). Enter the last 4 digits of your phone number. If the screen is frozen, scan the QR code on it with WeChat.
+
+**Scenario B — Food is sent via Hotel Robot:**
+If the front desk sends it via a robot, the robot will call your room phone (座机). You must be in your room to pick it up from the robot's tray.
+
+**Scenario C — Food is stolen from the front desk:**
+Open the app order page, click "申请售后" (Request after-sales) and select "未收到餐" (Item not received). The platform will refund you immediately.
+
+**Show This (Full-Screen Chinese Card):** 
+我是外国人，不懂中文。请把外卖放在前台或外卖柜，不要打电话。谢谢！
+(English: I am a foreigner, I don't understand Chinese. Please leave the delivery at the front desk or smart locker, do not call. Thank you!)
+
+**Safety / Don't Do:** 
+- Do NOT rely on the hotel robot during peak dining hours (6-8 PM). It is often busy or broken.
+- Do NOT leave food sitting at the front desk for more than 30 minutes, or it will be thrown away.
+- If you have a severe food allergy, show the waiter the red allergy card BEFORE ordering.
+
+**Evidence:** 
+- **Level 1 (Official):** Meituan and Xiaoxiang officially support leaving orders at front desks/lockers.
+- **Level 2 (Tested):** Successfully tested at 3-star hotels in Guangzhou.
+- **Level 3 (Workaround):** Hotel robot availability varies by hotel. Always confirm with the front desk at check-in.
+- **Last Verified:** November 2026
+
+---
+
+## Card 5: Hotel Check-in & Deposit Deadlock
+
+**Trigger:** 
+You arrive at your hotel late at night. You booked online, but the front desk refuses to register your foreign passport. Or, they ask for a 3,000 RMB deposit and your Alipay card is declined.
+
+**Immediate Action:** 
+1. If they refuse to register your passport, do not argue. Some budget hotels lack the license to host foreigners.
+2. Open Trip.com immediately. Call English customer service.
+3. Tell them: "This hotel is refusing to register my foreign passport. I have a confirmed booking. Please call them right now or move me to a compliant hotel for free."
+
+**Alternative / Backup:** 
+**Scenario A — Deposit issue:**
+Do NOT use Alipay for a 3,000 RMB deposit (you will pay a 3% foreign card fee). Hand them your physical Visa/Mastercard for a pre-authorization hold. The hotel absorbs the fee.
+
+**Scenario B — Passport issue:**
+If Trip.com cannot resolve it, they will rebook you. If you booked on Booking.com or Agoda, they often cannot help. You must call their global support and demand a refund.
+
+**Show This (Full-Screen Chinese Card):** 
+你好，我是外国游客，我预订了房间。请问可以帮我办理入住吗？如果用支付宝付押金，可以刷实体信用卡预授权吗？
+(English: Hello, I am a foreign tourist, I have a booking. Can I check in? If I pay the deposit on Alipay, can I use a physical credit card for pre-authorization instead?)
+
+**Safety / Don't Do:** 
+- Do NOT book cheap local inns or Airbnbs without checking if they are "Foreign Guest Friendly". You will be rejected at midnight.
+- Do NOT argue with the front desk about the law. It is a system licensing issue, not their personal choice.
+- Do NOT use Alipay/WeChat for large deposits; always use a physical card to avoid fees.
+
+**Evidence:** 
+- **Level 1 (Official):** Chinese hotels are legally required to register foreign passports. Not all have the license.
+- **Level 2 (Tested):** Trip.com English customer service forced a free rebooking successfully tested in Guangzhou.
+- **Level 3 (Workaround):** Physical card pre-authorization depends on the hotel's POS system.
+- **Last Verified:** November 2026
