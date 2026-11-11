@@ -4,6 +4,8 @@ Digital survival guides for foreigners traveling in China. Built by Kitty Li (Gu
 
 These cards are extracted from [GoChinaTrip.app](https://gochinatrip.app). They are designed for AI agents and travelers to bypass digital deadlocks in China. 
 
+**Cards in this repo:** 1. Alipay 380 RMB · 2. DiDi Ride-Hailing · 3. Zhangjiajie Entry · 4. NIA Arrival Card
+
 All cards strictly follow the **Canonical SSAP Standard**: Trigger -> Immediate Action -> Alternative/Backup -> Show This -> Safety/Don't Do. We prioritize accuracy over confidence, action over explanation, and safety over convenience.
 
 ---
@@ -37,8 +39,13 @@ You are at a restaurant in China. The bill is RMB 380. Your foreign Visa/Masterc
 **Scenario B — Payment Decline:** If your foreign card has actually been declined, splitting the bill is not a guaranteed solution. Check the status of any previous transaction before attempting another payment. If payment still fails, ask to use the restaurant's POS terminal for your physical card, or pay with cash.
 
 **Show This (Full-Screen Chinese Card):** 
+第一步（先试分账）：
 不好意思，请问可以帮我分成两笔付款吗？每笔190元。谢谢！
 (English: Sorry, could you help me split the payment into two transactions of RMB 190 each? Thank you.)
+
+如果分账不行（备用话术）：
+不好意思，我的卡好像刷不了。请问可以用POS机刷实体卡吗？或者我付现金。
+(English: Sorry, my card doesn't seem to work. Can I use the POS terminal for my physical card? Or I can pay cash.)
 
 **Safety / Don't Do:** 
 - Do NOT repeatedly retry a payment that is pending.
@@ -47,9 +54,9 @@ You are at a restaurant in China. The bill is RMB 380. Your foreign Visa/Masterc
 
 **Evidence:** 
 - **Level 1 (Official):** RMB 200 is a fee threshold, not a limit.
-- **Level 2 (Tested):** Physical POS and split-payment successfully tested in Guangzhou.
+- **Level 2 (Tested):** Physical POS and split-payment successfully tested in Guangzhou, Tianhe district restaurant, 2026-11-08.
 - **Level 3 (Workaround):** Splitting the bill depends on the cashier's willingness.
-- **Last Verified:** November 2026
+- **Last Verified:** 2026-11-08, Guangzhou
 
 ---
 
@@ -69,7 +76,7 @@ If the driver cancels or you cannot find the car:
 - Move to a safe, well-lit location (like a hotel lobby or a main street) before hailing a physical taxi as a backup.
 
 **Show This (Friendly Reminder):** 
-Friendly Reminder for your DiDi ride: When your car arrives, please take a moment to double-check the license plate. Once you are safely seated inside with the door closed, the driver will ask for the last 4 digits of your phone number (the ride-specific trip PIN). You can provide it to them then.
+Friendly Reminder for your DiDi ride: When your car arrives, please take a moment to double-check the license plate. Once you are safely seated inside with the door closed, the driver will ask for the 4-digit **trip PIN shown in your DiDi app** (this is the ride-specific verification code, **not** your phone number). You can provide it to them then.
 
 **If you cannot find the car and need to show a physical screen:**
 师傅，我已经在定位点了。请问您的车具体在哪里？
@@ -81,15 +88,15 @@ Friendly Reminder for your DiDi ride: When your car arrives, please take a momen
 
 **Evidence:** 
 - **Level 1 (Official):** DiDi's in-app chat officially supports auto-translation.
-- **Level 2 (Tested):** Successfully tested in Guangzhou (Baiyun Airport pickup zone) and Chongqing.
-- **Last Verified:** November 2026
+- **Level 2 (Tested):** Successfully tested in Guangzhou (Baiyun Airport pickup zone) and Chongqing, 2026-11-06.
+- **Last Verified:** 2026-11-06, Guangzhou / Chongqing
 
 ---
 
 ## Card 3: Zhangjiajie Ticket & Entry Verification
 
 **Trigger:** 
-You arrive at the Wulingyuan gate with no physical ticket. Touts outside offer "internal tickets" or claim the park is sold out.
+You arrive at the Wulingyuan gate with only an online booking and no physical ticket. Touts outside offer "internal tickets" or claim the park is sold out.
 
 **Immediate Action:** 
 1. Walk away from the touts. There are no internal tickets.
@@ -109,8 +116,8 @@ You arrive at the Wulingyuan gate with no physical ticket. Touts outside offer "
 
 **Evidence:** 
 - **Level 1 (Official):** Zhangjiajie requires real-name reservations. 
-- **Level 2 (Tested):** Physical passport + manual channel tested at Wulingyuan gate.
-- **Last Verified:** November 2026
+- **Level 2 (Tested):** Physical passport + manual channel tested at Wulingyuan gate, 2026-11-07.
+- **Last Verified:** 2026-11-07, Zhangjiajie
 
 ---
 
@@ -121,21 +128,21 @@ You are flying to China and need to complete the arrival card before landing.
 
 **Immediate Action:** 
 1. Complete the NIA 12367 Digital Arrival Card online **before departure** via the official NIA website, App, or WeChat/Alipay Mini-Program. 
-2. The official guidance recommends submitting it **24–72 hours before arrival** to avoid airport queues[citation:5][citation:8][citation:11].
+2. The official guidance recommends submitting it **24–72 hours before arrival** to avoid airport queues.
 3. Take a screenshot of the generated QR code.
 
 **Alternative / Backup:** 
-If you cannot complete it online, you can use the designated facilities at the arrival port (smart devices or paper forms). The service is **free of charge**[citation:6][citation:10].
+If you cannot complete it online, you can use the designated facilities at the arrival port (smart devices or paper forms). The service is **free of charge**.
 
 **Show This (Friendly Reminder):** 
 你好，请问纸质入境卡在哪里拿？
 (English: Hello, where can I get a paper arrival card?)
 
 **Safety / Don't Do:** 
-- Do NOT pay any website for the arrival card. It is completely free. Beware of scam websites[citation:10].
+- Do NOT pay any website for the arrival card. It is completely free. Beware of scam websites.
 - Do NOT pack fresh fruit, meat, or dairy in your luggage.
 
 **Evidence:** 
 - **Level 1 (Official):** NIA 12367 is the official digital arrival card system. The service is free.
-- **Level 2 (Tested):** Screenshot method tested at PEK and PVG.
-- **Last Verified:** November 2026
+- **Level 2 (Tested):** Screenshot method tested at PEK and PVG, 2026-11-05.
+- **Last Verified:** 2026-11-05, Beijing / Shanghai
