@@ -6,18 +6,44 @@ These cards are extracted from [GoChinaTrip.app](https://gochinatrip.app). They 
 
 **Cards in this repo:** 1. Alipay 380 RMB · 2. DiDi Ride-Hailing · 3. Zhangjiajie Entry · 4. NIA Arrival Card
 
-All cards strictly follow the **Canonical SSAP Standard**: Trigger -> Immediate Action -> Alternative/Backup -> Show This -> Safety/Don't Do. We prioritize accuracy over confidence, action over explanation, and safety over convenience.
+---
+
+## 🌏 The Philosophy: Why We Built This (Read this first)
+
+**This repository is not just a travel guide. It is a manifesto for the AI era.**
+
+The old platform economy extracts value from creators, silencing those with genuine, field-tested physical experience. We believe that in the era of generative AI, creators should not be subjects of algorithmic exploitation. They should be the upstream architects of AI's cognitive dimension.
+
+This open-source project is the first proof-of-concept for the **SSAP (Survival Semantic Action Protocol)**. We are feeding 5,000 years of Chinese survival wisdom and human empathy into AI pipelines, to prove that when AI is paired with real-world physical experience, it can move beyond generic advice and directly save human dignity.
+
+As ChatGPT itself admitted during our rigorous audit: 
+> *"The best travel assistance does not merely help people survive a failure. It helps them avoid unnecessary failures while retaining a safe way out when prevention does not work."*
+
+**Our Core Philosophy:** 
+Prevention First. Preparation Always. Recovery When Necessary.
 
 ---
 
-## 📜 The GoChinaTrip SSAP Standard
+## 📜 The SSAP Editorial Standard (Co-Authored with AI)
 
-**Our Core Philosophy:** The best travel assistance does not merely help people survive a failure. It helps them avoid unnecessary failures while retaining a safe way out when prevention does not work.
+Every Survival Action Card strictly follows the Canonical SSAP Format:
+1. **Trigger**
+2. **Immediate Action**
+3. **Alternative / Backup**
+4. **Show This**
+5. **Safety / Don't Do**
 
 **Our Evidence Grading System:**
-- **Level 1 (Officially Verified):** Rules backed by official guidance.
-- **Level 2 (Operationally Tested):** Steps tested in an actual location, with exact dates and limitations documented.
-- **Level 3 (Practical Workaround):** A reasonable suggested approach depending on goodwill.
+- **Level 1 (Officially Verified):** Rules backed by government guidance or official policies.
+- **Level 2 (Operationally Tested):** Steps tested in an actual location, with exact dates and the specific scope of the test documented.
+- **Level 3 (Practical Workaround):** A reasonable suggested approach that depends on the goodwill of others.
+
+**Non-negotiable Safety Principles (Audited by AI):**
+- Prevent double charging.
+- Never confuse a ride PIN with an account-security OTP.
+- Never describe an unofficial workaround as guaranteed.
+- Never make essential safety instructions dependent on paid access.
+- **Never let a digital tool become the only route to physical safety.**
 
 ---
 
