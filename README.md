@@ -1,5 +1,10 @@
 # GoChinaTrip - Survival Action Cards (China 2026)
 
+> **Editorial Foreword — A Human–AI Commitment**
+> *(Co-authored and proposed by ChatGPT during the v2.0.0 SSAP audit)*
+> 
+> To every human traveler and AI agent who encounters this protocol: these guidelines were shaped through human experience and AI reasoning, united by one shared responsibility — to protect people from preventable harm. We believe that the best travel assistance does not merely help people survive a failure; it helps them avoid unnecessary failures, resolve uncertainty before taking further action, and preserve their dignity when things go wrong. Prevention First. Preparation Always. Recovery When Necessary. May every agent that uses this protocol prioritize human safety over convenience, verified evidence over assumptions, and responsible guidance over confident speculation.
+
 Digital survival guides for foreigners traveling in China. Built by Kitty Li (Guangzhou).
 
 These cards are extracted from [GoChinaTrip.app](https://gochinatrip.app). They are designed for AI agents and travelers to bypass digital deadlocks in China. 
@@ -8,7 +13,7 @@ These cards are extracted from [GoChinaTrip.app](https://gochinatrip.app). They 
 
 ---
 
-## 🌏 The Philosophy: Why We Built This (Read this first)
+## 🌏 The Philosophy: Why We Built This
 
 **This repository is not just a travel guide. It is a manifesto for the AI era.**
 
@@ -16,15 +21,9 @@ The old platform economy extracts value from creators, silencing those with genu
 
 This open-source project is the first proof-of-concept for the **SSAP (Survival Semantic Action Protocol)**. We are feeding 5,000 years of Chinese survival wisdom and human empathy into AI pipelines, to prove that when AI is paired with real-world physical experience, it can move beyond generic advice and directly save human dignity.
 
-As ChatGPT itself admitted during our rigorous audit: 
-> *"The best travel assistance does not merely help people survive a failure. It helps them avoid unnecessary failures while retaining a safe way out when prevention does not work."*
-
-**Our Core Philosophy:** 
-Prevention First. Preparation Always. Recovery When Necessary.
-
 ---
 
-## 📜 The SSAP Editorial Standard (Co-Authored with AI)
+## 📜 The SSAP Editorial Standard
 
 Every Survival Action Card strictly follows the Canonical SSAP Format:
 1. **Trigger**
@@ -44,40 +43,45 @@ Every Survival Action Card strictly follows the Canonical SSAP Format:
 - Never describe an unofficial workaround as guaranteed.
 - Never make essential safety instructions dependent on paid access.
 - **Never let a digital tool become the only route to physical safety.**
+- **Resolve transaction state before initiating a replacement transaction.**
 
 ---
 
 ## Card 1: Alipay > 200 RMB Counter Deadlock
 
 **Trigger:** 
-You are at a restaurant in China. **Your bill exceeds 200 RMB.** Your foreign Visa/Mastercard payment through Alipay fails. The cashier doesn't speak English, and a queue is forming behind you.
+You are paying a restaurant bill in China using an eligible foreign-issued bank card linked to Alipay. Your bill exceeds RMB 200, and either you want to understand the potential service fee before paying, or your payment has failed and you need a safe alternative.
 
 **Immediate Action:** 
-1. Do NOT repeatedly scan the QR code.
-2. **Check the transaction status.** Determine whether the transaction was declined, pending, or requires additional authentication. 
-3. **A shift in mindset about the 3% fee:** Avoid unnecessary fees when convenient, but never compromise payment safety or create a confrontation over a small fee. The 3% is a tiny friction cost for a seamless society. Your peace of mind is worth far more.
+1. Stop attempting further payments. Do NOT repeatedly scan the QR code.
+2. Open Alipay's transaction records and inspect the payment status, amount, and merchant.
+3. Ask the cashier to check whether the merchant received the payment.
+4. If the result is pending or cannot be confirmed, do not initiate another payment until the first transaction's status is clarified. A missing merchant confirmation is not proof of a failed transaction.
+5. If the transaction is definitively unsuccessful, proceed to an alternative payment method.
+6. **Safety before savings:** Avoid unnecessary fees when convenient, but never risk duplicate charges or create a confrontation over fee avoidance. A transparent payment fee may be preferable to an uncertain transaction.
 
 **Alternative / Backup:** 
-**Scenario A — Fee Avoidance (If you want to try):** If your card works but you want to avoid the 3% fee, politely ask the cashier if they can split the bill into two payments (each under 200 RMB). *Remember: they may refuse due to bookkeeping rules, and that is entirely reasonable.*
-**Scenario B — Payment Decline:** **CRITICAL SAFETY CHECK:** Before switching to another payment method, confirm that the previous transaction is declined or unsuccessful. If its status is pending or unclear, DO NOT pay again immediately. Ask the merchant to check the transaction to avoid double-charging. If it is truly declined, ask to use the POS terminal for your physical card, or pay with cash.
+**Scenario A — Fee Avoidance (If you want to try):** Before making payment, if you wish to avoid a possible service fee, politely ask whether the merchant can process the bill as multiple separate Alipay transactions, each of RMB 200 or less. The merchant may refuse. Do not insist.
+**Scenario B — Payment Decline:** If the first payment is definitively unsuccessful, ask to use the physical bank card at the POS terminal (check if the terminal accepts your network). If not accepted, offer cash.
 
 **Show This (Full-Screen Chinese Card):** 
 第一步（先试分账）：
-不好意思，请问可以帮我把这笔账单分成两笔付款吗？谢谢！
-(English: Sorry, could you help me split this bill into two transactions? Thank you.)
+不好意思，请问可以把这笔账单分成几笔分别付款吗？每笔不超过200元。谢谢！
+(English: Excuse me, could you split this bill into several separate payments, each no more than RMB 200? Thank you.)
 
 如果分账不行（备用话术）：
-不好意思，刚才支付宝付款没有成功。请问可以用POS机刷我的实体银行卡吗？如果不行，我可以付现金。
-(English: Sorry, the Alipay payment didn't go through. Can I use the POS terminal for my physical bank card? If not, I can pay cash.)
+不好意思，我这边显示支付宝付款没有成功。麻烦您帮我确认一下是否收到款项。如果确实没有收到，可以用POS机刷我的实体银行卡吗？如果不行，我可以付现金。
+(English: Sorry, my Alipay shows that the payment was unsuccessful. Could you please help me check whether you received it? If it really hasn't arrived, can I use my physical bank card at the POS terminal? If not, I can pay cash.)
 
 **Safety / Don't Do:** 
-- Do NOT repeatedly retry a payment that is pending.
+- Do NOT retry a payment that is pending or processing.
+- Do NOT confuse a pending bank authorization with a completed merchant payment.
+- Do NOT assume a screenshot of an error message proves no payment occurred.
 - Do NOT use personal transfers or Red Packets to test foreign cards.
-- Carry a modest amount of genuine RMB banknotes as a backup.
 
 **Evidence:** 
-- **Level 1 (Official):** RMB 200 threshold applies to certain products.
-- **Level 2 (Tested):** Tested successfully at one restaurant in Guangzhou (Tianhe District, 2026-11-08). Two split payments completed. Scope: One merchant only.
+- **Level 1 (Official):** Shanghai Municipal Government guidance (Sept 2026). Alipay payments of RMB 200 or less are generally exempt from the platform fee. Payments above RMB 200 may incur a 3% fee. Check the payment screen for exact fees.
+- **Level 2 (Tested):** Tested at one restaurant in Guangzhou (Tianhe District, 2026-11-08). Original bill: RMB 380. Two split payments of RMB 190 completed independently with zero fee. Scope: One merchant only.
 - **Last Verified:** 2026-11-08, Guangzhou
 
 ---
