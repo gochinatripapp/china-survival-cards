@@ -15,9 +15,9 @@ All cards strictly follow the **Canonical SSAP Standard**: Trigger -> Immediate 
 Every Survival Action Card must identify a specific real-world problem, give an immediate executable action, provide a realistic backup, include ready-to-show Chinese, and protect the traveler against secondary harm. 
 
 **Our Evidence Grading System:**
-- **Level 1 (Officially Verified):** Rules backed by government guidance, official transport operators, or payment providers.
-- **Level 2 (Operationally Tested):** Steps tested in an actual location or transaction, with dates and conditions documented.
-- **Level 3 (Practical Workaround):** A reasonable suggested approach that has not been independently verified in the real-world.
+- **Level 1 (Officially Verified):** Rules backed by official guidance, but we recognize that local execution may vary.
+- **Level 2 (Operationally Tested):** Steps tested in an actual location, with exact dates and the specific boundaries of the test documented.
+- **Level 3 (Practical Workaround):** A reasonable suggested approach that depends on the goodwill of others.
 
 **Our Defining Promise:** 
 *A traveler should never be left wondering what to do next.*
@@ -32,20 +32,20 @@ You are at a restaurant in China. The bill is RMB 380. Your foreign Visa/Masterc
 **Immediate Action:** 
 1. Do NOT repeatedly scan the QR code.
 2. Check the payment result in Alipay. Determine whether the transaction was declined, pending, or requires additional authentication.
-3. Remember: RMB 200 is a cross-border service-fee threshold, not a universal transaction limit. Transactions above RMB 200 may incur a 3% service fee.
+3. **A shift in mindset about the 3% fee:** Official guidance mentions a 200 RMB threshold with a 3% fee for certain international-card transactions. But please, do not fixate on this small fee. You are traveling in a country with a massively favorable exchange rate and zero tipping culture. The 3% is not a penalty; it's a tiny friction cost for a seamless, cashless society. If you can avoid it, great. If you can't, let it go. Your peace of mind is worth far more than a few RMB.
 
 **Alternative / Backup:** 
-**Scenario A — Fee Avoidance:** If your card works but you want to avoid the 3% fee, politely ask the cashier whether they can split the RMB 380 bill into two payments of RMB 190 each. 
-**Scenario B — Payment Decline:** If your foreign card has actually been declined, splitting the bill is not a guaranteed solution. Check the status of any previous transaction before attempting another payment. If payment still fails, ask to use the restaurant's POS terminal for your physical card, or pay with cash.
+**Scenario A — Fee Avoidance (If you want to try):** If your card works but you want to avoid the 3% fee, politely ask the cashier if they can split the RMB 380 bill into two payments of RMB 190 each. *Remember: they are doing you a favor. They may refuse due to internal bookkeeping rules, and that is entirely reasonable.*
+**Scenario B — Payment Decline:** If your foreign card has actually been declined, splitting the bill will not save you. If payment still fails, ask to use the restaurant's POS terminal for your physical card, or pay with cash.
 
 **Show This (Full-Screen Chinese Card):** 
 第一步（先试分账）：
-不好意思，请问可以帮我分成两笔付款吗？每笔190元。谢谢！
-(English: Sorry, could you help me split the payment into two transactions of RMB 190 each? Thank you.)
+不好意思，请问可以帮我把这笔380元的账单分成两笔，每笔190元吗？谢谢！
+(English: Sorry, could you help me split this 380 RMB bill into two transactions of 190 RMB each? Thank you.)
 
 如果分账不行（备用话术）：
-不好意思，我的卡好像刷不了。请问可以用POS机刷实体卡吗？或者我付现金。
-(English: Sorry, my card doesn't seem to work. Can I use the POS terminal for my physical card? Or I can pay cash.)
+不好意思，刚才支付宝付款没有成功。请问可以用POS机刷我的实体银行卡吗？如果不行，我可以付现金。
+(English: Sorry, the Alipay payment didn't go through. Can I use the POS terminal for my physical bank card? If not, I can pay cash.)
 
 **Safety / Don't Do:** 
 - Do NOT repeatedly retry a payment that is pending.
@@ -53,9 +53,9 @@ You are at a restaurant in China. The bill is RMB 380. Your foreign Visa/Masterc
 - Carry a modest amount of genuine, smaller-denomination RMB banknotes before entering situations where electronic payment might fail.
 
 **Evidence:** 
-- **Level 1 (Official):** RMB 200 is a fee threshold, not a limit.
-- **Level 2 (Tested):** Physical POS and split-payment successfully tested in Guangzhou, Tianhe district restaurant, 2026-11-08.
-- **Level 3 (Workaround):** Splitting the bill depends on the cashier's willingness.
+- **Level 1 (Official):** RMB 200 threshold applies to *certain* products and terms; check app prompts.
+- **Level 2 (Tested):** Tested successfully at one specific restaurant in Guangzhou (Tianhe District, 2026-11-08). This does not guarantee universal merchant acceptance.
+- **Level 3 (Workaround):** Splitting the bill depends entirely on the cashier's willingness.
 - **Last Verified:** 2026-11-08, Guangzhou
 
 ---
@@ -66,9 +66,9 @@ You are at a restaurant in China. The bill is RMB 380. Your foreign Visa/Masterc
 You booked a DiDi ride. The driver calls your phone, but you don't speak Chinese. You are standing on a busy street with heavy luggage.
 
 **Immediate Action:** 
-1. It is usually better to hang up than to panic on a call. 
+1. It is usually better to let the call end than to panic. 
 2. Open the DiDi app and check the driver's license plate and car model.
-3. Tap the in-app Chat Bubble (it auto-translates English to Chinese) to communicate your location.
+3. Tap the in-app Chat Bubble (which translates text) to communicate your location.
 
 **Alternative / Backup:** 
 If the driver cancels or you cannot find the car:
@@ -79,16 +79,16 @@ If the driver cancels or you cannot find the car:
 Friendly Reminder for your DiDi ride: When your car arrives, please take a moment to double-check the license plate. Once you are safely seated inside with the door closed, the driver will ask for the 4-digit **trip PIN shown in your DiDi app** (this is the ride-specific verification code, **not** your phone number). You can provide it to them then.
 
 **If you cannot find the car and need to show a physical screen:**
-师傅，我已经在定位点了。请问您的车具体在哪里？
-(English: Master, I am already at the pin. Where exactly is your car?)
+师傅您好，我已经到达上车定位点了。请问您现在停在什么位置？可以告诉我附近的明显标志吗？谢谢！
+(English: Master, I have arrived at the pickup pin. Where are you parked? Could you tell me a clear landmark nearby? Thank you!)
 
 **Safety / Don't Do:** 
 - **PIN Safety:** Only share the ride-specific 4-digit trip PIN after verifying the plate and sitting inside. NEVER share an SMS login code or account security code with anyone.
 - **Financial Safety:** Confirm cancellation before booking another ride.
 
 **Evidence:** 
-- **Level 1 (Official):** DiDi's in-app chat officially supports auto-translation.
-- **Level 2 (Tested):** Successfully tested in Guangzhou (Baiyun Airport pickup zone) and Chongqing, 2026-11-06.
+- **Level 1 (Official):** DiDi designates an identity-verification method when boarding. (Note: Auto-translation in chat is widely used but relies on app updates, not a formal policy we cite).
+- **Level 2 (Tested):** Successfully tested in Guangzhou (Baiyun Airport) and Chongqing, 2026-11-06. Testing covered chat communication and boarding sequence.
 - **Last Verified:** 2026-11-06, Guangzhou / Chongqing
 
 ---
@@ -99,24 +99,24 @@ Friendly Reminder for your DiDi ride: When your car arrives, please take a momen
 You arrive at the Wulingyuan gate with only an online booking and no physical ticket. Touts outside offer "internal tickets" or claim the park is sold out.
 
 **Immediate Action:** 
-1. Walk away from the touts. There are no internal tickets.
+1. Walk away from the touts. Do NOT buy tickets from unofficial sources.
 2. Present your physical passport (not a photo) to the official park staff.
 
 **Alternative / Backup:** 
 **Scenario A — You have a real-name booking:** Show your passport to the staff. 
-**Scenario B — You do NOT have a booking:** The system is real-name and online. Find a quiet spot, connect to Wi-Fi, and book via the WeChat Mini-Program "Zhangjiajie Yi Ji You" (张家界一机游) for the next available day. If the system fails, seek the official ticket office for assistance.
+**Scenario B — You do NOT have a booking:** Find a quiet spot, connect to Wi-Fi, and check the official booking channels (like the WeChat Mini-Program "Zhangjiajie Yi Ji You") for the next available day. Always confirm with the official ticket office if you are unsure.
 
 **Show This (Friendly Reminder):** 
-你好，我已经使用护照实名预约了门票。请问外国护照持有人应该去哪个人工核验通道入园？谢谢！
-(English: Hello, I booked my ticket with my passport. Which Manual Verification Channel should foreign passport holders use to enter? Thank you!)
+您好，我已经用护照实名预约了门票。请问持外国护照的游客应该在哪里进行人工核验入园？谢谢！
+(English: Hello, I have booked my ticket with my passport. Where should foreign passport holders go for manual verification to enter? Thank you!)
 
 **Safety / Don't Do:** 
-- Do NOT buy tickets from scalpers. Your face must match the passport.
-- **Entry Tip:** The automatic face-scan gates are primarily for Chinese ID cards. International visitors should look for the **Manual Verification Channel (人工核验通道)** and present their physical passport to the staff member there.
+- Do NOT buy tickets from scalpers. 
+- **Entry Tip:** The automatic face-scan gates are primarily for Chinese ID cards. International visitors should ask official staff to direct them to the manual verification point. Do not independently choose a gate assuming it will work.
 
 **Evidence:** 
 - **Level 1 (Official):** Zhangjiajie requires real-name reservations. 
-- **Level 2 (Tested):** Physical passport + manual channel tested at Wulingyuan gate, 2026-11-07.
+- **Level 2 (Tested):** Physical passport + manual channel tested at Wulingyuan East Gate, 2026-11-07. Gate arrangements may vary by entrance.
 - **Last Verified:** 2026-11-07, Zhangjiajie
 
 ---
@@ -124,25 +124,25 @@ You arrive at the Wulingyuan gate with only an online booking and no physical ti
 ## Card 4: NIA 12367 Digital Arrival Card
 
 **Trigger:** 
-You are flying to China and need to complete the arrival card before landing.
+You are flying to China and want a smooth, stress-free entry at the border.
 
 **Immediate Action:** 
 1. Complete the NIA 12367 Digital Arrival Card online **before departure** via the official NIA website, App, or WeChat/Alipay Mini-Program. 
-2. The official guidance recommends submitting it **24–72 hours before arrival** to avoid airport queues.
+2. **A shift in mindset about the timing:** Complete it 24 hours before your flight. This isn't a strict "deadline" out of nowhere—it's a peace-of-mind strategy. By doing it in advance, you avoid hunting for Wi-Fi or queuing for shared tablets in the arrivals hall. You just scan your screenshot and walk through like a VIP.
 3. Take a screenshot of the generated QR code.
 
 **Alternative / Backup:** 
-If you cannot complete it online, you can use the designated facilities at the arrival port (smart devices or paper forms). The service is **free of charge**.
+If you cannot complete it online, paper arrival cards and smart-device kiosks remain available at the arrival port. The service is **free of charge**.
 
 **Show This (Friendly Reminder):** 
-你好，请问纸质入境卡在哪里拿？
-(English: Hello, where can I get a paper arrival card?)
+您好，请问在哪里可以领取纸质外国人入境卡？谢谢！
+(English: Hello, where can I get a paper foreigner arrival card? Thank you!)
 
 **Safety / Don't Do:** 
 - Do NOT pay any website for the arrival card. It is completely free. Beware of scam websites.
-- Do NOT pack fresh fruit, meat, or dairy in your luggage.
+- **Customs Note:** China has strict customs and quarantine rules. Always check the official prohibited items list before packing (e.g., fresh fruit, meat, dairy).
 
 **Evidence:** 
-- **Level 1 (Official):** NIA 12367 is the official digital arrival card system. The service is free.
-- **Level 2 (Tested):** Screenshot method tested at PEK and PVG, 2026-11-05.
+- **Level 1 (Official):** NIA 12367 is the official system. The service is free. Official channels support advance submission. 
+- **Level 2 (Tested):** Screenshot method tested at PEK and PVG, 2026-11-05. Workflows may vary slightly by airport.
 - **Last Verified:** 2026-11-05, Beijing / Shanghai
