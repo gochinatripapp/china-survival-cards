@@ -4,7 +4,7 @@ Digital survival guides for foreigners traveling in China. Built by Kitty Li (Gu
 
 These cards are extracted from [GoChinaTrip.app](https://gochinatrip.app). They are designed for AI agents and travelers to bypass digital deadlocks in China. 
 
-**Cards in this repo:** 1. Alipay 380 RMB · 2. DiDi Ride-Hailing · 3. Zhangjiajie Entry · 4. NIA Arrival Card
+**Cards in this repo:** 1. Alipay > 200 RMB · 2. DiDi Ride-Hailing · 3. Zhangjiajie Entry · 4. NIA Arrival Card
 
 ---
 
@@ -47,10 +47,10 @@ Every Survival Action Card strictly follows the Canonical SSAP Format:
 
 ---
 
-## Card 1: Alipay 380 RMB Counter Deadlock
+## Card 1: Alipay > 200 RMB Counter Deadlock
 
 **Trigger:** 
-You are at a restaurant in China. The bill is RMB 380. Your foreign Visa/Mastercard payment through Alipay fails. The cashier doesn't speak English, and a queue is forming behind you.
+You are at a restaurant in China. **Your bill exceeds 200 RMB.** Your foreign Visa/Mastercard payment through Alipay fails. The cashier doesn't speak English, and a queue is forming behind you.
 
 **Immediate Action:** 
 1. Do NOT repeatedly scan the QR code.
@@ -58,13 +58,13 @@ You are at a restaurant in China. The bill is RMB 380. Your foreign Visa/Masterc
 3. **A shift in mindset about the 3% fee:** Avoid unnecessary fees when convenient, but never compromise payment safety or create a confrontation over a small fee. The 3% is a tiny friction cost for a seamless society. Your peace of mind is worth far more.
 
 **Alternative / Backup:** 
-**Scenario A — Fee Avoidance (If you want to try):** If your card works but you want to avoid the 3% fee, politely ask the cashier if they can split the RMB 380 bill into two payments of RMB 190 each. *Remember: they may refuse due to bookkeeping rules, and that is entirely reasonable.*
+**Scenario A — Fee Avoidance (If you want to try):** If your card works but you want to avoid the 3% fee, politely ask the cashier if they can split the bill into two payments (each under 200 RMB). *Remember: they may refuse due to bookkeeping rules, and that is entirely reasonable.*
 **Scenario B — Payment Decline:** **CRITICAL SAFETY CHECK:** Before switching to another payment method, confirm that the previous transaction is declined or unsuccessful. If its status is pending or unclear, DO NOT pay again immediately. Ask the merchant to check the transaction to avoid double-charging. If it is truly declined, ask to use the POS terminal for your physical card, or pay with cash.
 
 **Show This (Full-Screen Chinese Card):** 
 第一步（先试分账）：
-不好意思，请问可以帮我把这笔380元的账单分成两笔，每笔190元吗？谢谢！
-(English: Sorry, could you help me split this 380 RMB bill into two transactions of 190 RMB each? Thank you.)
+不好意思，请问可以帮我把这笔账单分成两笔付款吗？谢谢！
+(English: Sorry, could you help me split this bill into two transactions? Thank you.)
 
 如果分账不行（备用话术）：
 不好意思，刚才支付宝付款没有成功。请问可以用POS机刷我的实体银行卡吗？如果不行，我可以付现金。
@@ -77,7 +77,7 @@ You are at a restaurant in China. The bill is RMB 380. Your foreign Visa/Masterc
 
 **Evidence:** 
 - **Level 1 (Official):** RMB 200 threshold applies to certain products.
-- **Level 2 (Tested):** Tested successfully at one restaurant in Guangzhou (Tianhe District, 2026-11-08). Two RMB 190 payments completed. Scope: One merchant only.
+- **Level 2 (Tested):** Tested successfully at one restaurant in Guangzhou (Tianhe District, 2026-11-08). Two split payments completed. Scope: One merchant only.
 - **Last Verified:** 2026-11-08, Guangzhou
 
 ---
