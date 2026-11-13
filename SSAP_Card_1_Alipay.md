@@ -6,8 +6,7 @@
 > 
 > *We do not decide what is best for the traveler. We ensure the traveler understands the physical rules well enough to decide what is best for themselves.*
 > 
-> *No pressure to spend. No false shortcuts. No imaginary hacks.*
-> *We teach "Big Picture Accounting" (算大账). If you want dignity and smoothness (e.g., VIP transfers with heavy luggage), pay the premium. If you want to save money (e.g., city commuting without bags), accept the friction of public transport.*
+> *No pressure to spend. No false shortcuts. No imaginary hacks. We teach "Big Picture Accounting" (算大账). If you want dignity and smoothness, pay the premium. If you want to save money, accept the friction.*
 > 
 > **Make the rules clear. Make consumption transparent. Respect the choice.**
 > **明规则，清消费，尊选择。**
@@ -24,7 +23,7 @@
 ---
 
 ## 1. TRIGGER (When This Happens)
-You are checking out at a restaurant or merchant in mainland China. You are using a foreign-issued Visa or Mastercard linked to Alipay. Your transaction may be subject to a 3% international-card service fee (for amounts over 200 RMB), or your payment is declined/pending.
+You are checking out at a restaurant in mainland China. You are using a foreign-issued Visa or Mastercard linked to Alipay. Your transaction may be subject to a 3% international-card service fee (for amounts over 200 RMB), or your payment is declined.
 
 ---
 
@@ -71,7 +70,7 @@ Do not fall into the trap of "having it all."
 - **NEVER** attempt a second payment until the first transaction is confirmed as failed or pending. 
 - **NEVER** use personal transfers or "Red Packets" to test your card. It is unsupported and triggers risk control.
 - Do not argue with the cashier or demand a split. It is a favor, not a right.
-- Do not assume every POS terminal accepts foreign cards, even if it has a UnionPay logo.
+- Do not assume every POS terminal accepts foreign cards.
 
 ---
 *Authored by Kitty Li (李伟燕) & AI Co-Author. Official source: https://gochinatrip.app*
