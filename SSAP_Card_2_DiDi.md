@@ -1,3 +1,21 @@
+# 🏛️ GoChinaTrip v2.3 Constitution: The Rational Traveler
+
+> **明明白白消费 (Consume with Complete Clarity)**
+> 
+> **WE PROVIDE THE RULES. YOU MAKE THE DECISION.**
+> 
+> *No pressure to spend. No false shortcuts. No imaginary hacks.* 
+> 
+> We teach **"Big Picture Accounting" (算大账)**. 
+> - If you want to reduce friction (e.g., arranging a suitable private transfer for heavy luggage), consider paying a premium—after confirming the actual service, capacity, and terms. 
+> - If you want to save money (e.g., city commuting without bags), accept the friction of public transport.
+> - **We don't buy dignity. We protect it.** Premium purchases reduce friction, but they do not purchase human dignity, and they do not guarantee service.
+> 
+> **Make the rules clear. Make consumption transparent. Respect the choice.**
+> **明规则，清消费，尊选择。**
+
+---
+
 # SURVIVAL ACTION CARD 02: DiDi Communication & Luggage Deadlock
 
 **Version:** 2.3.2
@@ -50,9 +68,15 @@ Do not let a digital booking create a physical deadlock at the curb.
 > 师傅您好，我们有三个24寸的大行李箱。麻烦您打开后备箱，我们想先确认能不能全部放下。谢谢！
 > *(Hello, we have three large 24-inch suitcases. Please open the trunk so we can confirm they all fit. Thank you!)*
 
-**D. If luggage does not fit:**
-> 不好意思，这些行李放不下。我们需要换一辆更大的车。
-> *(Sorry, these don't fit. We need a larger vehicle.)*
+**D. If the luggage does not fit — Exit the deadlock (Big Picture Accounting):**
+1. Do not force the luggage into the vehicle. Safety first.
+2. If the vehicle cannot accommodate the luggage, cancel the unsuitable booking through DiDi immediately.
+3. Check the cancellation terms and accept the applicable small charge rather than spending valuable time disputing it when your travel deadline is at risk. **Time is the most expensive currency.**
+4. Immediately arrange a more suitable vehicle or private transfer.
+
+**Show This:**
+> 不好意思，我们的行李太多，这辆车放不下。我们取消订单，重新叫一辆更大的车。给您添麻烦了，谢谢！
+> *(Sorry, we have too much luggage and it won't fit. We'll cancel and book a larger car. Sorry for the inconvenience, and thank you!)*
 
 ---
 
