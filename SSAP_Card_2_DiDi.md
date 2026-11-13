@@ -1,68 +1,92 @@
-# SURVIVAL ACTION CARD 02: DiDi Phone Call & Ride-Hailing Deadlock
+# 🏛️ GoChinaTrip v2.3 Constitution: The Rational Traveler
 
-**Version:** 2.2.0
-**Last updated:** November 2026
-**Category:** Transport / Ride-hailing
-**SSAP philosophy:** Dignity is part of the outcome.
+> **明明白白消费 (Consume with Complete Clarity)**
+> 
+> **WE PROVIDE THE RULES. YOU MAKE THE DECISION.**
+> 
+> *We do not decide what is best for the traveler. We ensure the traveler understands the physical rules well enough to decide what is best for themselves.*
+> 
+> *No pressure to spend. No false shortcuts. No imaginary hacks.*
+> *We teach "Big Picture Accounting" (算大账). If you want dignity and smoothness (e.g., VIP transfers with heavy luggage), pay the premium. If you want to save money (e.g., city commuting without bags), accept the friction of public transport.*
+> 
+> **Make the rules clear. Make consumption transparent. Respect the choice.**
+> **明规则，清消费，尊选择。**
 
 ---
 
-> ## DIGNITY FIRST
-> **The cheapest vehicle is not always the right vehicle.**
-> 
-> If you have 3 large suitcases and 2-3 passengers, do not book a standard DiDi Express and negotiate with the driver at the curb. 
-> 
-> Book a 7-seat business van directly (preferably a pre-booked VIP transfer via Trip.com). A small premium buys you a driver who proactively handles luggage, waits for you, and eliminates the physical deadlock.
+# SURVIVAL ACTION CARD 02: DiDi Communication & Luggage Deadlock
+
+**Version:** 2.3.0
+**Last updated:** November 2026
+**Category:** Transportation / Driver Communication
+**Core Philosophy:** Match Capacity Before Booking. 明明白白消费。
 
 ---
 
 ## 1. TRIGGER (When This Happens)
-You have booked a DiDi. The driver calls in Mandarin. You can't communicate, can't find the car, or the driver is asking for a verification number before starting the trip.
+- Your DiDi driver calls, but you cannot understand or speak Mandarin.
+- You cannot identify the vehicle or agree on the pickup location.
+- You have heavy luggage (e.g., 3 large suitcases) and are unsure if the booked car can accommodate them.
+- The driver asks for the last four digits of your phone number before departure.
 
 ---
 
-## 2. PREVENTION FIRST (Before Booking)
-- **Luggage check:** If you have 3 large 24-inch suitcases, a standard sedan will likely reject you. Book a 7-seater or a Trip.com VIP transfer.
-- **Visual card prep:** Before the car arrives, type the last 4 digits of your registered phone number into a giant note on your phone screen. (e.g., `1234`).
+## 2. PREVENTION FIRST — Match Capacity Before Booking
+Do not let a digital booking create a physical deadlock at the curb. Understand your physical requirements *before* selecting a vehicle.
+
+### The "Three-Suitcase" Reality (算大账)
+If you are traveling with **three large 24-inch suitcases and 2-3 passengers**, a standard DiDi Express (sedan) will likely reject you. 
+- **Priority: Dignity & Smoothness:** Pre-book a 7-seat business van or a Trip.com VIP transfer. The premium buys you confirmed space, a driver who helps with luggage, and zero curb-side arguments.
+- **Priority: Savings:** If you only have backpacks or small carry-ons, a standard DiDi Express is perfect.
+- **The Rule:** A 7-seater does not automatically guarantee luggage space. Check the specific vehicle's capacity before booking. Never assume luggage assistance is included unless confirmed.
+
+*Note: Once your luggage is safely at the hotel, standard DiDi Express, the subway, and buses are the rational choice for city commuting.*
 
 ---
 
-## 3. IMMEDIATE ACTION
-**Step 1: The Phone Call Deadlock**
-Do NOT answer the phone. Send this in the DiDi chat:
+## 3. IMMEDIATE ACTION — The Driver Calls
+1. **Do NOT answer if you cannot understand Mandarin.** Let the call end safely. Do not cross traffic while looking at your phone.
+2. **Use the In-App Chat.** DiDi's chat supports auto-translation. Send a text with your location and clothing description.
+3. **Verify the Vehicle.** Match the **license plate** and vehicle details against your active booking before boarding. Do not get in a car just because the driver waves.
+4. **The Last-4-Digit Verification:** Before driving, the driver will verbally ask for the last 4 digits of your phone number and manually enter it into their app. Do not type it in chat.
+
+---
+
+## 4. SHOW THIS — Full-Screen Chinese Scripts
+*(Select the exact message based on your situation)*
+
+**A. Cannot speak Chinese (Sent via App Chat):**
 > 师傅您好，我不会说中文。麻烦您通过滴滴软件发文字消息联系我，谢谢！
 > *(Hello, I can't speak Chinese. Please contact me via text in the DiDi app. Thank you!)*
 
-**Step 2: Identify the Car**
-Look at the app. Match the **license plate**. Do not get in a car just because the driver waves at you or knows your name.
+**B. Describe yourself (Sent via App Chat):**
+> 师傅您好，我穿着蓝色外套，站在上车点旁边。
+> *(Hello, I'm wearing a blue jacket and standing next to the pickup point.)*
 
-**Step 3: The Last-4-Digit Verification (The Final Boss)**
-Before driving, the driver will verbally ask for the last 4 digits of your phone number. The driver will manually enter this into their app.
-**Do not type it in chat.** Hold up your phone screen showing this giant number:
+**C. Request hazard lights:**
+> 可以麻烦您打开双闪灯吗？方便我找到您的车。谢谢！
+> *(Could you please turn on your hazard lights? It will help me find your car. Thank you!)*
+
+**D. The Last-4-Digits Card (Hold up your phone screen):**
 > **“我的手机尾号是： 1234”**
-*(My phone number ends in: 1234)*
+> *(My phone number ends in: 1234)*
 
-**Step 4: Luggage Check**
-Before the driver closes the trunk, show this if needed:
-> 师傅您好，麻烦您打开后备箱，我们想先确认这三个24寸的行李箱能不能放得下。谢谢！
-> *(Please open the trunk so we can confirm these 3 large suitcases fit. Thank you!)*
+**E. Luggage confirmation:**
+> 师傅您好，我们有三个24寸的大行李箱。麻烦您打开后备箱，我们想先确认能不能全部放下。谢谢！
+> *(Hello, we have three large 24-inch suitcases. Please open the trunk so we can confirm they all fit. Thank you!)*
 
----
-
-## 4. ALTERNATIVE / BACKUP
-- **If the luggage doesn't fit:** Do not force it. Say: `不好意思，这些行李放不下，我们需要换一辆更大的车。` *(Sorry, they don't fit. We need a larger vehicle.)* Then cancel via the app.
-- **If you can't find the car:** Send: `请问您附近有什么明显的地标？我现在过来找您。` *(What landmark is near you? I'll walk to you.)* If you are at an airport, walk to the official taxi stand. Do not take an unmarked ride.
-- **If the driver asks you to cancel and pay privately:** REFUSE. Keep the trip on the platform.
+**F. If luggage does not fit:**
+> 不好意思，这些行李放不下。我们需要换一辆更大的车。
+> *(Sorry, these don't fit. We need a larger vehicle.)*
 
 ---
 
 ## 5. SAFETY / DON'T DO
-- **NEVER** get in a car if the license plate doesn't match the app.
+- **NEVER** board a vehicle if the license plate does not match the app.
 - **NEVER** share your SMS login code, account password, or payment password. The 4-digit boarding code is ONLY for the current trip.
-- **NEVER** place large suitcases on passenger seats or block the driver's view.
+- **NEVER** accept an off-platform journey or pay the driver privately.
+- **NEVER** force oversized luggage into the passenger cabin or block the driver's view.
+- Do not assume a driver is obligated to load your bags unless it is explicitly confirmed in the service terms.
 
 ---
-
-## 6. EVIDENCE
-- **Level 1 (Official):** Shanghai Government confirms DiDi's in-app text translation feature. 
-- **Level 2 (Field Observation):** Drivers ask for the last-4-digits verbally and manually enter it into their app. Standard taxis rarely help with luggage. Premier drivers usually do. 
+*Authored by Kitty Li (李伟燕) & AI Co-Author. Official source: https://gochinatrip.app*
