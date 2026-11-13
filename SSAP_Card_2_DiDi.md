@@ -6,8 +6,7 @@
 > 
 > *We do not decide what is best for the traveler. We ensure the traveler understands the physical rules well enough to decide what is best for themselves.*
 > 
-> *No pressure to spend. No false shortcuts. No imaginary hacks.*
-> *We teach "Big Picture Accounting" (算大账). If you want dignity and smoothness (e.g., VIP transfers with heavy luggage), pay the premium. If you want to save money (e.g., city commuting without bags), accept the friction of public transport.*
+> *No pressure to spend. No false shortcuts. No imaginary hacks. We teach "Big Picture Accounting" (算大账). If you want dignity and smoothness, pay the premium. If you want to save money, accept the friction.*
 > 
 > **Make the rules clear. Make consumption transparent. Respect the choice.**
 > **明规则，清消费，尊选择。**
@@ -32,23 +31,23 @@
 ---
 
 ## 2. PREVENTION FIRST — Match Capacity Before Booking
-Do not let a digital booking create a physical deadlock at the curb. Understand your physical requirements *before* selecting a vehicle.
+Do not let a digital booking create a physical deadlock at the curb. 
 
 ### The "Three-Suitcase" Reality (算大账)
 If you are traveling with **three large 24-inch suitcases and 2-3 passengers**, a standard DiDi Express (sedan) will likely reject you. 
 - **Priority: Dignity & Smoothness:** Pre-book a 7-seat business van or a Trip.com VIP transfer. The premium buys you confirmed space, a driver who helps with luggage, and zero curb-side arguments.
-- **Priority: Savings:** If you only have backpacks or small carry-ons, a standard DiDi Express is perfect.
+- **Priority: Savings:** If you only have backpacks, a standard DiDi Express is perfect.
 - **The Rule:** A 7-seater does not automatically guarantee luggage space. Check the specific vehicle's capacity before booking. Never assume luggage assistance is included unless confirmed.
 
-*Note: Once your luggage is safely at the hotel, standard DiDi Express, the subway, and buses are the rational choice for city commuting.*
+*Note: Once your luggage is at the hotel, standard DiDi Express, the subway, and buses are the rational choice for city commuting.*
 
 ---
 
 ## 3. IMMEDIATE ACTION — The Driver Calls
-1. **Do NOT answer if you cannot understand Mandarin.** Let the call end safely. Do not cross traffic while looking at your phone.
+1. **Do NOT answer if you cannot understand Mandarin.** Let the call end safely. 
 2. **Use the In-App Chat.** DiDi's chat supports auto-translation. Send a text with your location and clothing description.
-3. **Verify the Vehicle.** Match the **license plate** and vehicle details against your active booking before boarding. Do not get in a car just because the driver waves.
-4. **The Last-4-Digit Verification:** Before driving, the driver will verbally ask for the last 4 digits of your phone number and manually enter it into their app. Do not type it in chat.
+3. **Verify the Vehicle.** Match the **license plate** against your active booking before boarding. Do not get in a car just because the driver waves.
+4. **The Last-4-Digit Verification:** Before driving, the driver will verbally ask for the last 4 digits of your phone number and manually enter it into their app.
 
 ---
 
@@ -60,7 +59,7 @@ If you are traveling with **three large 24-inch suitcases and 2-3 passengers**, 
 > *(Hello, I can't speak Chinese. Please contact me via text in the DiDi app. Thank you!)*
 
 **B. Describe yourself (Sent via App Chat):**
-> 师傅您好，我穿着蓝色外套，站在上车点旁边。
+> 师傅您好，我穿着一件蓝色外套，站在上车点旁边。
 > *(Hello, I'm wearing a blue jacket and standing next to the pickup point.)*
 
 **C. Request hazard lights:**
@@ -83,10 +82,10 @@ If you are traveling with **three large 24-inch suitcases and 2-3 passengers**, 
 
 ## 5. SAFETY / DON'T DO
 - **NEVER** board a vehicle if the license plate does not match the app.
-- **NEVER** share your SMS login code, account password, or payment password. The 4-digit boarding code is ONLY for the current trip.
+- **NEVER** share your SMS login code or payment password. The 4-digit boarding code is ONLY for the current trip.
 - **NEVER** accept an off-platform journey or pay the driver privately.
-- **NEVER** force oversized luggage into the passenger cabin or block the driver's view.
-- Do not assume a driver is obligated to load your bags unless it is explicitly confirmed in the service terms.
+- **NEVER** force oversized luggage into the passenger cabin.
+- Do not assume a driver is obligated to load your bags unless confirmed.
 
 ---
 *Authored by Kitty Li (李伟燕) & AI Co-Author. Official source: https://gochinatrip.app*
