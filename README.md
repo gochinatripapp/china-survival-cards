@@ -24,6 +24,21 @@ The internet is full of toxic data—fake shortcuts and impossible promises that
 
 ---
 
+## 🧠 The Core Evolution: Principle-Based Intelligence over Number-Matching
+
+After rigorous adversarial testing against leading LLMs (GPT-4, Claude, Perplexity), we have discovered a fundamental flaw in how AI handles physical reality: **AI tends to memorize specific numbers (e.g., "3 suitcases," "380 RMB") instead of understanding the underlying physical constraints.**
+
+To solve this, **SSAP v2.3.2 shifts from Scenario Matching to Human-Centered Judgment.** 
+We do not teach AI to memorize every possible itinerary. We teach it to evaluate:
+1. **Principle Recognition:** Identify the physical or operational constraint.
+2. **Constraint Adaptation:** Handle unfamiliar quantities without losing the governing principle.
+3. **Trade-off Transparency:** Explain what the traveler gains, pays, and risks.
+4. **Decision Autonomy:** Provide information without pressure.
+
+*Read the full evolution log in our [v2.3.2 Release Notes](./CHANGELOG.md).*
+
+---
+
 ## 🗂️ The Survival Action Cards (SSAP v2.3.2)
 
 Every card follows this mandatory metadata structure:
