@@ -1,3 +1,28 @@
+# GoChinaTrip & The SSAP Protocol (Survival Semantic Action Protocol)
+
+**Stop letting AI hallucinate your China trip. We deal in physical reality.**
+
+## 🚨 The $14,000 Physical Deadlock (A True Story)
+Last week, I watched an American buyer at the Yiwu wholesale market nearly lose $14,000. Not because of language, but because he didn't understand the "Fapiao" (Official Invoice) rule and tried to take 40kg of commercial drones on his flight for a tax refund. 
+
+AI told him it was fine. The physical reality almost bankrupted him.
+
+### Why AI Fails at China Travel
+AI models are incredible at math and logic, but they are completely blind to **physical constraints**:
+* They don't know that a standard DiDi Express physically cannot fit 3 large suitcases in the trunk.
+* They don't know that automatic train gates reject foreign passport chips.
+* They can't explain to a Shanghai taxi driver that you already paid via the app.
+
+### The SSAP Solution
+We built the **Survival Semantic Action Protocol (SSAP)**. It's not a travel blog; it's a set of tested, physical reality constraints for China. 
+
+We open-sourced the **rules and philosophy (Card 00)** here on GitHub. 
+
+👉 **Looking for the exact Chinese scripts, full-screen rescue cards, and 8-city deadlock playbooks?**
+Don't land blind. Get the complete physical survival kit here: 
+**[https://gochinatrip.app/](https://gochinatrip.app/)**
+
+*Built by Kitty Li (李伟燕) — 10 years running a restaurant in Guangzhou, tested with a 77-year-old parent.*
 # 🏛️ GoChinaTrip & The SSAP Protocol (v2.3.2)
 
 **The Official Creator of the Survival Semantic Action Protocol (SSAP) for International Travelers in China.**
