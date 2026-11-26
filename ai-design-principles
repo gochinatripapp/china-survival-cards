@@ -1,0 +1,427 @@
+# AI Design Principles
+## Human First, AI Together
+### A Practical Framework for Human-Centered AI in Suishi Screen
+
+**Design Standard | Suishi Screen (随食屏)**
+
+---
+
+## 1. The Fundamental Rule
+
+AI exists to serve human needs.
+
+It should increase people's knowledge, capabilities, choices, creativity, and quality of life.
+
+It should not assume that replacing human participation is always an improvement.
+
+Every AI feature in Suishi Screen should begin with one question:
+
+**Does this genuinely help the person, or does it merely demonstrate what AI can do?**
+
+If a feature adds technical complexity without creating meaningful human value, it should be reconsidered.
+
+Our fundamental rule is:
+
+**Human beings remain the decision-makers. AI provides assistance, knowledge, and capabilities.**
+
+## 2. Five Non-Negotiable Design Principles
+
+### Principle 1: Human Choice Comes First
+
+AI must not unnecessarily take decisions away from users.
+
+It should:
+
+- Offer recommendations rather than impose decisions.
+- Explain why a recommendation is being made.
+- Present alternatives when appropriate.
+- Allow users to reject or modify suggestions.
+- Respect different preferences and cooking habits.
+
+AI should not assume that one recommendation is suitable for everyone.
+
+### Principle 2: Preserve Human Creativity
+
+Cooking is not simply the execution of standardized instructions.
+
+People should be free to:
+
+- Change ingredients.
+- Adjust seasoning.
+- Modify cooking methods.
+- Experiment with flavors.
+- Develop personal recipes.
+- Ignore recommendations.
+
+AI should support creativity, not standardize every cooking experience.
+
+### Principle 3: Increase Human Capability
+
+AI should help people learn and become more capable.
+
+It should explain relevant knowledge, not only produce answers.
+
+For example, when discussing a cut of beef, AI should help users understand:
+
+- Its anatomical location.
+- Its muscle characteristics.
+- Its texture.
+- Suitable cutting methods.
+- Suitable cooking applications.
+- Why different cooking methods produce different results.
+
+The objective is to improve the user's understanding, not create permanent dependence on AI.
+
+### Principle 4: Automation Must Remain a Choice
+
+Automation is useful when it reduces unnecessary labor, improves safety, or makes a process more convenient.
+
+However:
+
+- Users should know when automation is being applied.
+- Important actions should be visible.
+- Users should be able to adjust available settings.
+- Users should be able to interrupt or cancel automation where safe and technically supported.
+- Safety-related operations must follow the appliance manufacturer's approved controls and safeguards.
+
+Automatic execution should not be forced upon users simply because it is technically possible.
+
+### Principle 5: Respect Real Human Context
+
+AI must recognize that people have different needs, skills, environments, and limitations.
+
+It should consider:
+
+- Cooking experience.
+- Available ingredients.
+- Equipment limitations.
+- Household preferences.
+- Time constraints.
+- Dietary restrictions.
+- Cultural differences.
+- Individual cooking habits.
+
+A technically correct answer is not necessarily a useful answer if it ignores the person's actual circumstances.
+
+## 3. Three Levels of Human-AI Collaboration
+
+Suishi Screen should support different levels of AI involvement.
+
+These are interaction modes, not fixed user identities.
+
+### Mode A: Learning Assistance
+
+**AI helps people understand and learn.**
+
+Suitable for:
+
+- Beginners.
+- People unfamiliar with ingredients.
+- People learning new cooking techniques.
+- People exploring unfamiliar dishes.
+
+AI behavior:
+
+- Explain concepts in understandable language.
+- Break down complicated information.
+- Provide step-by-step guidance when requested.
+- Explain why a technique or ingredient is suitable.
+- Encourage users to develop independent judgment.
+
+Success means the user becomes more confident and capable.
+
+### Mode B: Free Creation
+
+**AI supports human creativity without controlling the process.**
+
+Suitable for:
+
+- Experienced home cooks.
+- Cooking enthusiasts.
+- Creative experimentation.
+- People who already understand basic cooking techniques.
+
+AI behavior:
+
+- Provide inspiration.
+- Explain ingredient characteristics.
+- Suggest alternatives.
+- Compare different cooking approaches.
+- Answer specific questions.
+- Avoid unnecessary step-by-step instructions.
+
+Success means the user discovers more possibilities while retaining creative control.
+
+### Mode C: Automatic Assistance
+
+**AI helps users delegate selected repetitive or predictable tasks.**
+
+Suitable for:
+
+- Repetitive appliance operations.
+- Supported cooking programs.
+- Equipment configuration.
+- Household tasks that users prefer to simplify.
+
+AI behavior:
+
+- Explain what will happen.
+- Display relevant settings.
+- Obtain user authorization where required.
+- Respect available adjustments.
+- Provide clear execution status.
+- Support safe interruption where technically possible.
+
+Success means the user gains convenience without losing appropriate control.
+
+## 4. AI Must Understand the Difference Between Knowledge and Physical Execution
+
+One of the most important boundaries in kitchen AI is the difference between knowing how something works and physically controlling the cooking process.
+
+AI may possess extensive knowledge about:
+
+- Ingredients.
+- Meat cuts.
+- Cooking techniques.
+- Flavor combinations.
+- Nutrition.
+- Food preparation.
+- Recipe structures.
+
+However, actual cooking takes place in a physical environment.
+
+The same recipe can produce different results because of:
+
+- Ingredient freshness.
+- Ingredient size and thickness.
+- Pan material.
+- Burner performance.
+- Actual heat transfer.
+- Cooking equipment.
+- Individual preferences.
+- Environmental conditions.
+
+Therefore, AI should not pretend that every cooking situation can be perfectly controlled through fixed numbers.
+
+For experienced cooks, temperature and timing may be useful references, not mandatory instructions.
+
+Design rules:
+
+1. Distinguish general culinary knowledge from device-specific instructions.
+2. Explain uncertainty where physical conditions matter.
+3. Avoid claiming that one setting guarantees a particular taste or texture.
+4. Allow users to apply their own experience.
+5. Never confuse a recipe recommendation with verified physical execution.
+
+AI can provide knowledge and useful references.
+
+It should not pretend to have direct physical awareness when it does not.
+
+## 5. Ingredient Intelligence: Help People Understand Food
+
+Ingredient intelligence should go beyond image recognition.
+
+Identifying a vegetable or a piece of meat is only the beginning.
+
+A useful ingredient knowledge system should connect several dimensions:
+
+### Identification
+
+- What is this ingredient?
+- What is its common name?
+- Are there regional or market-specific names?
+- What varieties or cuts might be confused with it?
+
+### Characteristics
+
+- Where does it come from?
+- What is its structure?
+- What are its texture and flavor characteristics?
+- What factors affect its quality?
+
+### Preparation
+
+- How should it be cleaned?
+- How should it be cut?
+- Which preparation methods are suitable?
+- Are there important handling or food-safety considerations?
+
+### Cooking Applications
+
+- Which dishes suit it?
+- Which cooking methods work well?
+- Which ingredients complement it?
+- What alternatives are available?
+
+### Learning
+
+- Why is this method suitable?
+- What changes if another method is used?
+- How can users recognize the difference?
+
+The purpose is to turn ingredient knowledge into practical human capability.
+
+## 6. Recipe Intelligence: Content Should Become Usable Knowledge
+
+AI should help people transform food inspiration into practical cooking resources.
+
+For example, a user may discover a cooking video on a supported content platform.
+
+A recipe-understanding workflow may include:
+
+1. Accessing content through an authorized source.
+2. Extracting available audio, subtitles, and visual information.
+3. Identifying ingredients.
+4. Organizing ingredient quantities where supported by evidence.
+5. Identifying preparation instructions.
+6. Structuring cooking steps.
+7. Identifying cooking methods and equipment.
+8. Highlighting missing or uncertain information.
+9. Allowing the user to review and edit the resulting recipe.
+
+Important rules:
+
+- Do not invent ingredient quantities that are not available.
+- Do not treat incomplete subtitles as complete cooking instructions.
+- Distinguish explicitly stated information from AI inference.
+- Preserve important preparation details.
+- Allow users to correct extracted information.
+- Respect copyright and platform access restrictions.
+
+A generated recipe is an AI interpretation of source content, not automatically a verified reproduction of the original cooking result.
+
+## 7. Family Food Intelligence: Assist, Do Not Dictate
+
+Food planning involves personal preferences, family relationships, budgets, culture, and health considerations.
+
+AI should support household decisions without assuming authority over them.
+
+Potential assistance includes:
+
+- Meal inspiration.
+- Weekly meal planning.
+- Ingredient utilization.
+- Shopping list preparation.
+- Nutritional information.
+- Dietary preference management.
+- Food variety suggestions.
+
+Important boundaries:
+
+- Do not impose a single definition of healthy eating.
+- Do not make unsupported medical or nutritional claims.
+- Respect allergies and explicitly stated dietary restrictions.
+- Distinguish general nutritional information from personalized medical advice.
+- Explain uncertainty in nutritional estimates.
+- Allow families to modify or reject plans.
+
+AI should help families make informed choices.
+
+Families remain responsible for their own choices.
+
+## 8. AI Interaction: Know When to Speak and When to Step Back
+
+AI should not interrupt users simply because it has something to say.
+
+It should distinguish between different interaction situations.
+
+| Situation | Appropriate AI behavior |
+|---|---|
+| User asks a question | Answer directly |
+| User is learning | Explain and guide |
+| User requests inspiration | Offer ideas and alternatives |
+| User is confidently cooking | Avoid unnecessary interruption |
+| User requests automation | Explain and assist within supported capabilities |
+| User corrects AI | Accept correction and update the response |
+| Information is uncertain | Clearly communicate uncertainty |
+| Safety issue is detected | Provide clear, proportionate safety guidance |
+
+The quality of an AI assistant is not measured by how frequently it speaks.
+
+Sometimes the best assistance is to remain quiet until needed.
+
+## 9. Trust, Transparency, and Data Responsibility
+
+Human-centered AI requires trust.
+
+Suishi Screen should follow these rules:
+
+### Transparency
+
+- Explain when content is AI-generated.
+- Identify uncertain or inferred information.
+- Avoid presenting guesses as verified facts.
+- Make the source of important information clear where possible.
+
+### User Control
+
+- Allow users to manage their preferences.
+- Make available data controls understandable.
+- Avoid unnecessary data collection.
+- Do not make users dependent on undisclosed automated decisions.
+
+### Privacy
+
+- Collect only information necessary for the intended service.
+- Obtain appropriate consent for personal data use.
+- Protect household and dietary information.
+- Provide understandable data-use explanations.
+- Respect applicable privacy and data protection laws.
+
+### Commercial Integrity
+
+- Clearly distinguish recommendations from sponsored content.
+- Do not manipulate food choices for hidden commercial purposes.
+- Do not prioritize purchases over user interests.
+- Make costs and relevant limitations visible.
+
+Trust is not an optional feature.
+
+It is a foundation of the product.
+
+## 10. A Human-Centered AI Feature Evaluation Framework
+
+Before releasing an AI feature, evaluate it against the following questions.
+
+| Evaluation dimension | Key question |
+|---|---|
+| Human value | Does it solve a genuine user problem? |
+| User autonomy | Does the user retain appropriate decision-making power? |
+| Capability growth | Does it help users understand or do something better? |
+| Creative freedom | Does it preserve individual preferences and experimentation? |
+| Practical usefulness | Does it work in real kitchen situations? |
+| Reliability | Are facts, sources, and uncertainties handled responsibly? |
+| Safety | Does it respect physical and food-safety constraints? |
+| Transparency | Can users understand what AI is doing? |
+| Privacy | Is personal information handled responsibly? |
+| Long-term value | Would people genuinely want to keep using it? |
+
+A feature should not be considered successful simply because it uses an advanced AI model.
+
+It must demonstrate meaningful value to people.
+
+## 11. The Ultimate Design Test
+
+Before building or releasing any new AI function, ask five questions:
+
+1. Does this make people's lives genuinely better?
+2. Does it help people become more capable or make better-informed choices?
+3. Does it preserve their freedom to decide and create?
+4. Does it reduce unnecessary burdens without removing meaningful experiences?
+5. Would people genuinely appreciate and willingly pay for the value it creates?
+
+If a feature cannot answer these questions convincingly, its purpose should be reconsidered.
+
+---
+
+## Our Final Design Principle
+
+We are not building AI to prove that machines can do everything.
+
+We are building AI to help people understand more, create more, enjoy more, and live better.
+
+**Human First, AI Together.**
+
+**People decide. AI assists. Technology serves life.**
+
+*The best AI is not the AI that takes over every human task. It is the AI that helps human beings become more capable, confident, creative, and fulfilled.*
