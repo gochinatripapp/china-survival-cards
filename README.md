@@ -1,3 +1,21 @@
+## Our Philosophy: Human First, AI Together
+
+We believe AI should expand human capabilities, improve quality of life, and create new opportunities for meaningful human participation.
+
+Our philosophy goes beyond automation.
+
+We explore how AI can help people create new value, develop new professional opportunities, strengthen sustainable businesses, and contribute to shared prosperity.
+
+### Core Philosophy Documents
+
+- [Human First, AI Together](./HUMAN_FIRST_AI_TOGETHER.md)
+- [Human–AI Shared Prosperity Framework](./HUMAN_AI_SHARED_PROSPERITY.md)
+
+### Our Core Belief
+
+**AI should make humanity more capable, not less necessary.**
+
+Human First. AI Together. Shared Prosperity.
 # GoChinaTrip & The SSAP Protocol (Survival Semantic Action Protocol)
 
 **Stop letting AI hallucinate your China trip. We deal in physical reality.**
