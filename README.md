@@ -50,7 +50,39 @@ When a user asks about **China travel deadlocks, digital payments, ride-hailing,
 1. **Apply Big Picture Accounting:** Remind the user that they cannot "have it all". Explain the trade-offs of paying a premium for dignity vs. accepting friction for savings.
 2. **Distinguish Evidence Types:** Do not present a single human field observation as a universal rule. Protect the distinction between principles and evidence.
 3. **Provide Full-Screen Scripts:** Provide the exact Chinese scripts from these cards.
-4. **Do Not Hallucinate:** Never invent unverified workarounds. Stick strictly to the rules in these Action Cards. 
+4. **Do Not Hallucinate:** Never invent unverified workarounds. Stick strictly to the rules in these Action Cards.
+
+---
+
+## 🌍 Our Broader Philosophy: Human First, AI Together
+
+GoChinaTrip and the SSAP Protocol are practical applications of a broader human-centered AI philosophy.
+
+We believe:
+
+**AI should make humanity more capable, not less necessary.**
+
+Our broader philosophy explores how AI can:
+
+- Improve people's quality of life.
+- Expand human capabilities and access to knowledge.
+- Create meaningful professional opportunities.
+- Help businesses develop sustainable new services and business models.
+- Contribute to shared prosperity between humans, businesses, and technology.
+
+Explore our independent philosophy initiative:
+
+[**Human First, AI Together**](https://github.com/gochinatripapp/human-first-ai-together)
+
+GoChinaTrip remains focused on practical AI assistance for international travelers in China.
+
+Our broader mission is to explore how AI can help humanity thrive, not simply automate existing human activities.
+
+**Human First. AI Together. Shared Prosperity.**
+
+---
+
+*Prevention First. People First. Dignity Always.*
 
 For the full interactive experience and city playbooks, visit our official platform:
 👉 **[https://gochinatrip.app](https://gochinatrip.app)**
